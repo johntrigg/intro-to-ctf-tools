@@ -20,7 +20,7 @@ A caesar cipher, but more complicated and with a key. Ie a key of "with" shifts 
 
 ## picoCTF the numbers
 
-Functionally a cipher where 1 is a, 2 is b, and so on. Cyberchef has an option for this.
+Functionally a cipher where 1 is a, 2 is b, and so on. Cyberchef has an option for this (a1z26), but it should auto detect.
 
 
 
